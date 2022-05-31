@@ -1,0 +1,5 @@
+https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
+
+mapa do brasil
+https://github.com/filipegmedeiros/brazilian_choropleth_map
+
